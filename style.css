@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    padding: 3%;
+    margin-left: 25%;
+    border-block: ;
+}
+
+.heading {
+    display: flex;
+    justify-content: flex-start;
+    padding: 2%;
+}
+
+.item1 {
+  
+}
+
+.item2 {
+    margin-left: 80%;
+}
